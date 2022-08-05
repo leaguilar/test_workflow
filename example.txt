@@ -1,3 +1,5 @@
 Example file
 
-DEVELOP My feature B ready for testing!
+DEVELOP
+My feature B ready for testing!
+generated feature A
